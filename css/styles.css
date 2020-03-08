@@ -43,7 +43,7 @@
             background-clip: content-box;
         }
         #intro{
-            background-image: url("../images/med2.jpeg");
+            background-image: url("../images/doc.jpeg");
             background-repeat: no-repeat;
             background-size: cover;
             height:95vh;
@@ -51,3 +51,4 @@
             .homeoverlay{
             background-color:transparent;
             }
+        #
