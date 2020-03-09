@@ -51,4 +51,14 @@
             .homeoverlay{
             background-color:transparent;
             }
-        #
+        #DOC3{
+          background-image: url("../images/med3.jpeg");
+          background-repeat: no-repeat;
+          background-size: cover;
+          height:95vh;
+          font-style: normal;
+          color: azure;
+        }
+        #pet{
+          background-color: beige;
+        }
